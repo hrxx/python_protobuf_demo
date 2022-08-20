@@ -1,4 +1,5 @@
 # python_protobuf_demo
+## This is the simplest demo how to use protobuf in Python.
 ### 0. google doc: https://developers.google.com/protocol-buffers/docs/pythontutorial
 ### 1. download protobuf tool(prebuild version): https://github.com/protocolbuffers/protobuf/releases
 ### 2. install protobuf for python: pip install protobuf
